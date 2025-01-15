@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neha Murugan</h1>
+<h1 align="center">Hi 👋, I'm Neha VelMurugan</h1>
 <h3 align="center">A passionate Machine learning developer from India</h3>
 
 - 🔭 I’m currently working on **Machine learning projects and 100 days of code challenge**
